@@ -18,10 +18,10 @@ export const SKILLS: Skill[] = [
   { name: "TypeScript", level: 95, category: "Languages", icon: "/images/skills/typescript.svg" },
   { name: "Python", level: 90, category: "Languages", icon: "/images/skills/python.svg" },
   { name: "Java", level: 85, category: "Languages", icon: "/images/skills/java.svg" },
-  { name: "C#", level: 80, category: "Languages", icon: "https://drive.google.com/file/d/1yujJTg4Rd5VvdfYRLqzPHpIFax9znzU1/view?usp=sharing" },
+  { name: "C#", level: 80, category: "Languages", icon: "/images/skills/csharp.png" },
   { name: "JavaScript", level: 95, category: "Languages", icon: "/images/skills/javascript.svg" },
   { name: "Kotlin", level: 75, category: "Languages", icon: "/images/skills/kotlin.svg" },
-  { name: "PHP", level: 70, category: "Languages", icon: "/images/skills/php.svg" },
+  { name: "PHP", level: 70, category: "Languages", icon: "/images/skills/php.png" },
 
   // Frontend
   { name: "React", level: 95, category: "Frontend", icon: "/images/skills/react.svg" },
@@ -47,9 +47,9 @@ export const SKILLS: Skill[] = [
 
   // AI/ML
   { name: "TensorFlow", level: 80, category: "AI/ML", icon: "/images/skills/tensorflow.svg" },
-  { name: "Gemini API", level: 90, category: "AI/ML", icon: "/images/skills/gemini.svg" },
+  { name: "Gemini API", level: 90, category: "AI/ML", icon: "/images/skills/gemini.png" },
   { name: "PyTorch", level: 85, category: "AI/ML", icon: "/images/skills/pytorch.svg" },
-  { name: "Hugging Face", level: 80, category: "AI/ML", icon: "/images/skills/huggingface.svg" },
+  { name: "Hugging Face", level: 80, category: "AI/ML", icon: "/images/skills/huggingface.png" },
 
   // Tools
   { name: "Git", level: 95, category: "Tools", icon: "/images/skills/git.svg" },
