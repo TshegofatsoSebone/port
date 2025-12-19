@@ -21,7 +21,7 @@ export const SKILLS: Skill[] = [
   { name: "C#", level: 80, category: "Languages", icon: "/images/skills/csharp.png" },
   { name: "JavaScript", level: 95, category: "Languages", icon: "/images/skills/javascript.svg" },
   { name: "Kotlin", level: 75, category: "Languages", icon: "/images/skills/kotlin.svg" },
-  { name: "PHP", level: 70, category: "Languages", icon: "/images/skills/php.png" },
+  { name: "PHP", level: 70, category: "Languages", icon: "/images/skills/PHP.png" },
 
   // Frontend
   { name: "React", level: 95, category: "Frontend", icon: "/images/skills/react.svg" },
