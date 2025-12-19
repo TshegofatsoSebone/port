@@ -144,7 +144,7 @@ export const CERTIFICATIONS: Certificate[] = [
     issuer: "Intel",
     date: "Oct 2024",
     category: "Foundations",
-    imageUrl: "/images/ai-essentials-intel.png"
+    imageUrl: "/images/ai-essentials-intel.PNG"
   },
   {
     id: "ai-azure",
