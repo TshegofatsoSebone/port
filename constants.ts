@@ -102,14 +102,14 @@ export const EDUCATION: Education[] = [
 
 export const CERTIFICATIONS: Certificate[] = [
   // Group 1: Generative AI & Advanced AI
-  {
+ {
     id: "gen-ai-llm",
     title: "Generative AI with Large Language Models",
     issuer: "DeepLearning.AI",
     date: "Oct 2024",
     category: "Generative AI",
-    imageUrl: "https://drive.google.com/file/d/1zXZwYRa1wczIKyE069ajjLRCzxLayc-o/view?usp=drive_link",
-
+    imageUrl: "/images/gen-ai-llm.png",
+   
   },
   {
     id: "intro-gen-ai",
@@ -117,8 +117,8 @@ export const CERTIFICATIONS: Certificate[] = [
     issuer: "Google Cloud",
     date: "Oct 2024",
     category: "Generative AI",
-    imageUrl: "https://drive.google.com/file/d/16we2RwgmbSXcbO4ULJgq3sRMFqSJkrV6/view?usp=drive_link",
-
+    imageUrl: "/images/intro-gen-ai.png",
+   
   },
 
   // Group 2: AI Foundations & Specializations
@@ -128,7 +128,7 @@ export const CERTIFICATIONS: Certificate[] = [
     issuer: "Arizona State University",
     date: "Oct 2024",
     category: "Foundations",
-    imageUrl: "https://drive.google.com/file/d/18K2s59nXMJw_J1dgDCnSXdACTKlTPBLa/view?usp=drive_link"
+    imageUrl: "/images/ai-prompt-eng.png"
   },
   {
     id: "intro-ai-ibm",
@@ -136,7 +136,7 @@ export const CERTIFICATIONS: Certificate[] = [
     issuer: "IBM",
     date: "Oct 2024",
     category: "Foundations",
-    imageUrl: "https://drive.google.com/file/d/1KknWG9tJIkTwhVqaewXnVpjINHJJtsce/view?usp=drive_link"
+    imageUrl: "/images/intro-ai-ibm.png"
   },
   {
     id: "ai-essentials-intel",
@@ -144,7 +144,7 @@ export const CERTIFICATIONS: Certificate[] = [
     issuer: "Intel",
     date: "Oct 2024",
     category: "Foundations",
-    imageUrl: "https://drive.google.com/file/d/1KDqczzfuLxUwkShVpLLFu7pH6_rvdbFa/view?usp=drive_link"
+    imageUrl: "/images/ai-essentials-intel.png"
   },
   {
     id: "ai-azure",
@@ -152,7 +152,7 @@ export const CERTIFICATIONS: Certificate[] = [
     issuer: "Microsoft",
     date: "Oct 2024",
     category: "Foundations",
-    imageUrl: "https://drive.google.com/file/d/1hddX0_FAxEUbnNAa7d36_bFiBAfWQUQm/view?usp=sharing"
+    imageUrl: "/images/ai-azure.png"
   },
 
   // Group 3: Responsible & Ethical AI
@@ -162,7 +162,7 @@ export const CERTIFICATIONS: Certificate[] = [
     issuer: "Johns Hopkins University",
     date: "Oct 2024",
     category: "Ethics",
-    imageUrl: "https://drive.google.com/file/d/1XE4KftzPq2SvOFK7bEX9MsfRAozVJPI-/view?usp=drive_link"
+    imageUrl: "/images/trustworthy-ai.png"
   },
 
   // Group 4: Development & Implementation
@@ -172,7 +172,7 @@ export const CERTIFICATIONS: Certificate[] = [
     issuer: "IBM",
     date: "Oct 2024",
     category: "Development",
-    imageUrl: "https://drive.google.com/file/d/1h2plA3bcVN_qX_5mJjlbAcmVeCjdbRV9/view?usp=sharing"
+    imageUrl: "/images/ai-chatbots.png"
   },
   {
     id: "python-dev-ai",
@@ -180,7 +180,7 @@ export const CERTIFICATIONS: Certificate[] = [
     issuer: "IBM",
     date: "Oct 2024",
     category: "Development",
-    imageUrl: "https://drive.google.com/file/d/1kAKpeyx1DaL68AN7kwYDv2t1qDjuKjMQ/view?usp=drive_link"
+    imageUrl: "/images/python-dev-ai.png"
   }
 ];
 
