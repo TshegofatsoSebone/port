@@ -39,7 +39,7 @@ export const SKILLS: Skill[] = [
   { name: "Firebase", level: 85, category: "Backend & DB", icon: "/images/skills/firebase.svg" },
 
   // Cloud & Platforms
-  { name: "AWS", level: 80, category: "Cloud & Platforms", icon: "/images/skills/awe.png" },
+  { name: "AWS", level: 80, category: "Cloud & Platforms", icon: "/images/skills/aws.png" },
   { name: "Azure", level: 75, category: "Cloud & Platforms", icon: "/images/skills/azure.svg" },
   { name: ".NET", level: 80, category: "Cloud & Platforms", icon: "/images/skills/dotnet.svg" },
   { name: "GitHub", level: 90, category: "Cloud & Platforms", icon: "/images/skills/github.svg" },
