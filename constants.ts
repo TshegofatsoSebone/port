@@ -7,7 +7,7 @@ export const PORTFOLIO_DATA = {
   bio: "Software Developer with strong foundations in Java, Kotlin, C#, and full-stack web development, now expanding expertise into Artificial Intelligence and Machine Learning. Completed comprehensive AI/ML certification series on Coursera (IBM, Google, Intel, DeepLearning.AI, Microsoft) covering Generative AI, LLMs, Responsible AI, Prompt Engineering, and cloud AI implementations. Currently interning at Capaciti with hands-on AI project exposure. Seeking roles that leverage both software engineering rigor and applied AI/ML to build intelligent, scalable solutions.",
   location: "Johannesburg, SA",
   email: "paledisebene@gmail.com",
-  profileImage: "https://media.licdn.com/dms/image/v2/D4D03AQEOSuiLeq2Usw/profile-displayphoto-scale_200_200/B4DZpZQen3HsAY-/0/1762434085176?e=1767830400&v=beta&t=WVQuCHI67mQDN2FfSTQaj9nHdYQoI-w6B11sPaeu03E",
+  profileImage: "/profile/pp.jpg",
   // Document Paths - references /doc/ folder in public
   cvPath: "/doc/tshegofatso-sebone-cv-2025.pdf",
   certBundlePath: "/doc/certificates/all-certifications-bundle.pdf"
